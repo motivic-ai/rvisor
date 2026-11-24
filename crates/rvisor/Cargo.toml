@@ -1,5 +1,6 @@
 [package]
 name = "rvisor"
+description = "tastes like metal"
 version.workspace = true
 edition.workspace = true
 license.workspace = true
